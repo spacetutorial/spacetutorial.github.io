@@ -303,7 +303,7 @@ header.fixed #logo {
   padding-bottom: 70px;
 }
 
-@media (min-width: 1501px) {
+@media (min-width: 801px) {
   #faq div {
     width: 30%;
     margin-left: 3%;
@@ -311,7 +311,7 @@ header.fixed #logo {
   }
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 800px) {
   #faq div {
     width: 100%;
     margin-left: 10%;
